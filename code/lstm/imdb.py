@@ -27,4 +27,3 @@ tokenizer_cmd = ['./tokenizer.perl', '-l', 'en', '-q', '-']
 def tokenize(sentences) :
 
     print 'Tokenizing ... '
-    text =
